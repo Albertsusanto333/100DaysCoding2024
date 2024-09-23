@@ -1,0 +1,9 @@
+package Day22;
+
+public class Day22 {
+    public static void main(String[] args){
+        Integer angka = (10);
+        System.out.println("nilai = "+ angka);
+    }
+    
+}
